@@ -1,4 +1,6 @@
-### Hi there 👋
+### Billy Bain
+
+I'm currently a UNH Coding Bootcamp stundent. I'm currently working on the learning proceess of coding. 
 
 <!--
 **BillyBain/billybain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
