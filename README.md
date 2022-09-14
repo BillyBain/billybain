@@ -1,6 +1,6 @@
 ### Billy Bain
 
-I'm currently a UNH Coding Bootcamp stundent. I'm currently working on the learning proceess of coding. 
+I'm a UNH Coding Bootcamp graduate. I'm currently looking to start my career as a developer. 
 
 <!--
 **BillyBain/billybain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
